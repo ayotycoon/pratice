@@ -30,8 +30,10 @@ public class Common {
     }
 
     public static void main(String[] args){
-        String s1 = "ayotycoyon";
-        String s2 = "xcoont";
+        //String s1 = "ayotycoyon";
+        //String s2 = "xcoont";
+        String s1 = "ay";
+        String s2 = "axy";
 
         System.out.println(solve(s1,s2,0,0));
     }
